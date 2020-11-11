@@ -3,7 +3,7 @@
 ## Home Page
 
 This is the landing page of the app and it meant primarily to generate interest.  
-
+![alt text](https://github.com/knezj/HCI-Covid-App/blob/main/HCI_A2_Home.png)
 
 ## Menu Page
 
