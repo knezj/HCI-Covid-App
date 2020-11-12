@@ -36,7 +36,7 @@ The pandemic tracker provides a mechanism to do contact tracing and help ensure 
 
 ## Find a Friend!
 
-This page gives the user a convenient way to chat directly with their group of contacts while looking through the app. 
+This page gives the user a convenient way to chat directly with their group of contacts while looking through the app. There is an option for a text only or a video chat according to which one the user chooses. 
 
 ![alt text](https://github.com/knezj/HCI-Covid-App/blob/main/images/HCI_A2_Find_A_Friend.png)
 
@@ -50,7 +50,7 @@ Information about treatment options are important to understand in case users en
 
 ## Connect and Feedback 
 
-This page provides statistics about the spread of the virus within Canada and throughout the world by providing links to more in depth analysis through the icons shown. 
+This page provides a way to connect with a list of volunteers that can help do shopping errands for the user, which is a useful feature for elderly as they are more susceptible to going out in public and contracting the virus. Furthermore, this page also provides a way to give feedback to the developers of the app. User feedback is critical to maintaining and enhancing future iterations of the app. 
 
 ![alt text](https://github.com/knezj/HCI-Covid-App/blob/main/images/HCI_A2_Connect_and_Feedback.png)
 
